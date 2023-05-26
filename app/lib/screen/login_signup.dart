@@ -35,14 +35,14 @@ class _LoginSignupScreenState extends State<LoginSignupScreen> {
                   children: [
                     RichText(
                       text: TextSpan(
-                          text: "Welcome to SIKAT, ",
+                          text: "Welcome to ",
                           style: TextStyle(
                             fontSize: 25,
                             color: Colors.yellow[700],
                           ),
                           children: [
                             TextSpan(
-                              text: "Kinanti",
+                              text: "KasirNow,",
                               style: TextStyle(
                                 fontSize: 25,
                                 fontWeight: FontWeight.bold,
