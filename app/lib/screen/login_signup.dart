@@ -167,8 +167,8 @@ class _LoginSignupScreenState extends State<LoginSignupScreen> {
                     children: [
                       buildTextButton(MaterialCommunityIcons.facebook,
                           "Facebook", Pallete.facebookColor),
-                      buildTextButton(MaterialCommunityIcons.google, "Google",
-                          Pallete.googleColor),
+                      buildTextButton(MaterialCommunityIcons.apple, "Apple",
+                          Pallete.appleColor),
                     ],
                   ),
                 )
