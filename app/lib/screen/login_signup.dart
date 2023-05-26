@@ -42,7 +42,7 @@ class _LoginSignupScreenState extends State<LoginSignupScreen> {
                           ),
                           children: [
                             TextSpan(
-                              text: isSignupScreen ? "SIKAT," : " Back,",
+                              text: isSignupScreen ? "KasirNow," : " Back,",
                               style: TextStyle(
                                 fontSize: 25,
                                 fontWeight: FontWeight.bold,
@@ -321,7 +321,7 @@ class _LoginSignupScreenState extends State<LoginSignupScreen> {
                   style: TextStyle(color: Pallete.textColor2),
                   children: [
                     TextSpan(
-                      text: "terms & conditions",
+                      text: " terms & conditions",
                       style: TextStyle(color: Colors.orange),
                     ),
                   ]),
